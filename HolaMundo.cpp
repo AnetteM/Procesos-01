@@ -5,4 +5,5 @@ using namespace std;
 int main(int argc, char** argv) {
 	cout << "\n\tProcesos de desarrollo de software :)";
 	cout << "\n\n\t\t Hola Mundo\n";
-}
+	cout << "\n\n\t\t Practica de git\n";
+	}
